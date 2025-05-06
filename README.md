@@ -30,10 +30,6 @@
 
 ###
 
-<h4 align="left">Shifaay – Your Ideal Partner for Financial & Health Balance! 💚<br><br>Looking for a smart and easy way to track your diet, consumption, and overall health?<br>Shifaay is the perfect solution to help you live healthier and smarter every day!<br><br>🔹 Key Features:<br>✅ Daily Nutrition Tracking – Get detailed insights into calories and nutrients for each meal.<br><br>✅ Water Intake Monitoring – Stay hydrated by tracking your daily water consumption.<br><br>✅ Personalized Health Tips – Receive tailored suggestions based on your health goals.<br><br>✅ Secure & Simple Interface – Easy to use with secure storage for your health data.<br><br>Start your journey towards better health and balance today with Shifaay! 🚀</h4>
-
-###
-
 <h2 align="left">🔧 Technologies & Tools</h2>
 
 ###
@@ -63,6 +59,10 @@
 ###
 
 <h1 align="left">Samples from my projects</h1>
+
+###
+
+<h4 align="left">Shifaay – Your Ideal Partner for Financial & Health Balance! 💚<br><br>Looking for a smart and easy way to track your diet, consumption, and overall health?<br>Shifaay is the perfect solution to help you live healthier and smarter every day!<br><br>🔹 Key Features:<br>✅ Daily Nutrition Tracking – Get detailed insights into calories and nutrients for each meal.<br><br>✅ Water Intake Monitoring – Stay hydrated by tracking your daily water consumption.<br><br>✅ Personalized Health Tips – Receive tailored suggestions based on your health goals.<br><br>✅ Secure & Simple Interface – Easy to use with secure storage for your health data.<br><br>Start your journey towards better health and balance today with Shifaay! 🚀</h4>
 
 ###
 
