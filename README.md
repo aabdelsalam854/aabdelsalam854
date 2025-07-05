@@ -1,74 +1,75 @@
-<h1 align="left">Hi 👋! My name is Ahmed Abdelsalam</h1>
+## 👋 Hi there, I'm Ahmed Abdelsalam
 
-###
+I'm a passionate **Flutter Developer** who loves building beautiful, functional, and efficient mobile applications.
 
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-</div>
+---
 
-###
+### 🌐 Connect with me
 
-<div align="center">
-  <img height="600" src="https://raw.githubusercontent.com/MFaramawy/MFaramawy/master/157883808-762a27a1-c1c5-447c-80a1-fb892f511393.png"  />
-</div>
+<p align="left">
+  <a href="https://www.linkedin.com/in/ahmed-abdelsalam-b96588229/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" alt="LinkedIn" />
+  </a>
+  <a href="https://wa.me/qr/RZXKJO3Q4FQZP1" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="40" alt="WhatsApp" />
+  </a>
+  <a href="https://www.facebook.com/share/176DLkS1xB/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="40" alt="Facebook" />
+  </a>
+  <a href="mailto:aabdelsalam854@gmail.com">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" alt="Gmail" />
+  </a>
+</p>
 
-###
+---
 
-<h1 align="left">About Me</h1>
+## 🧑‍💻 About Me
 
-###
+- 🔭 I'm currently working on Flutter projects
+- 🌱 I'm learning everything I can 🤣
+- 🤝 I’m open to collaborating on exciting and challenging mobile projects
+- 🎯 2025 Goal: Contribute more to Open Source
+- 💬 Ask me about Flutter, Firebase, and clean architecture
+- ✉️ Reach me at: `aabdelsalam854@gmail.com`
 
-<h1 align="left">I'm a Flutter Developer !!</h1>
+---
 
-###
+## 🚀 Technologies & Tools
 
-<h3 align="left">I'm a Flutter Developer! 👨🏻‍💻<br>🌱 Currently, I'm learning everything 🤣<br>👯 I'm looking to collaborate with other developers and creators.<br>🥅 2025 Goals: Contribute more to Open Source projects.<br>⚡ Fun fact: I love challenges and solving problems!<br>✉️ You can email me at aabdelsalam854@gmail.com, and I'll try to respond as soon as possible.</h3>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="Flutter" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" alt="Dart" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="Firebase" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="30" alt="Android" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="30" alt="Android Studio" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="VS Code" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="Figma" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="30" alt="GitLab" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="30" alt="iOS/Apple" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original.svg" height="30" alt="Gradle" />
+</p>
 
-###
+---
 
-<h2 align="left">🔧 Technologies & Tools</h2>
+## 💡 Featured Project: Shifaay
 
-###
+> **Shifaay – Your Ideal Partner for Financial & Health Balance! 💚**
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="30" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" alt="dart logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original.svg" height="30" alt="gradle logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="30" alt="android logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="30" alt="gitlab logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="30" alt="apple logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo"  />
-</div>
+Looking for a smart and easy way to track your diet, consumption, and overall health?
 
-###
+**Shifaay** is the perfect solution to help you live healthier and smarter every day!
 
-<h1 align="left">Samples from my projects</h1>
+### 🔹 Key Features:
+- 🥗 **Daily Nutrition Tracking** – Get detailed insights into calories and nutrients for each meal.
+- 💧 **Water Intake Monitoring** – Stay hydrated by tracking your daily water consumption.
+- 🧠 **Personalized Health Tips** – Receive tailored suggestions based on your health goals.
+- 🔐 **Secure & Simple Interface** – Easy to use with secure storage for your health data.
 
-###
+🚀 *Start your journey towards better health and balance today with Shifaay!*
 
-<h4 align="left">Shifaay – Your Ideal Partner for Financial & Health Balance! 💚<br><br>Looking for a smart and easy way to track your diet, consumption, and overall health?<br>Shifaay is the perfect solution to help you live healthier and smarter every day!<br><br>🔹 Key Features:<br>✅ Daily Nutrition Tracking – Get detailed insights into calories and nutrients for each meal.<br><br>✅ Water Intake Monitoring – Stay hydrated by tracking your daily water consumption.<br><br>✅ Personalized Health Tips – Receive tailored suggestions based on your health goals.<br><br>✅ Secure & Simple Interface – Easy to use with secure storage for your health data.<br><br>Start your journey towards better health and balance today with Shifaay! 🚀</h4>
+---
 
-###
-
-<h1 align="left">Watch my contributions get eaten by a Pokémon🐍</h1>
-
-###
+## 🎮 Watch my contributions get eaten by a Pokémon 🐍
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aabdelsalam854/aabdelsalam854/output/pacman-contribution-graph-dark.svg">
@@ -76,11 +77,11 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/aabdelsalam854/aabdelsalam854/output/pacman-contribution-graph.svg">
 </picture>
 
-###
+---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aabdelsalam854&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aabdelsalam854&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+## 📊 GitHub Stats
 
-###
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aabdelsalam854&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aabdelsalam854&layout=compact&theme=dracula" height="150" />
+</p>
