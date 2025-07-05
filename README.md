@@ -32,16 +32,13 @@
 
 <h2 align="left">🔧 Technologies & Tools</h2>
 
-###
-## 🔧 Technologies & Tools
-
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-Dart-green)
 ![](https://img.shields.io/badge/Code-C%2B%2B-yellowgreen)
 ![](https://img.shields.io/badge/Code-Java-red)
 ![](https://img.shields.io/badge/Tools-Git-blue)
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"  width="40" height="40"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
 
