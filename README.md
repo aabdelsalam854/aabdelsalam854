@@ -63,6 +63,10 @@
 ###
 
 <h4 align="left">Shifaay – Your Ideal Partner for Financial & Health Balance! 💚<br><br>Looking for a smart and easy way to track your diet, consumption, and overall health?<br>Shifaay is the perfect solution to help you live healthier and smarter every day!<br><br>🔹 Key Features:<br>✅ Daily Nutrition Tracking – Get detailed insights into calories and nutrients for each meal.<br><br>✅ Water Intake Monitoring – Stay hydrated by tracking your daily water consumption.<br><br>✅ Personalized Health Tips – Receive tailored suggestions based on your health goals.<br><br>✅ Secure & Simple Interface – Easy to use with secure storage for your health data.<br><br>Start your journey towards better health and balance today with Shifaay! 🚀</h4>
+<a href="https://play.google.com/store/apps/details?id=com.chefaay.app" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" height="40" alt="Get it on Google Play" />
+</a>
+
 
 ###
 
