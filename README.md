@@ -12,9 +12,10 @@
   <a href="https://www.facebook.com/share/176DLkS1xB/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="40" alt="Facebook" />
   </a>
-  <a href="mailto:aabdelsalam854@gmail.com">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" alt="Gmail" />
-  </a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=aabdelsalam854@gmail.com" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" alt="Gmail" />
+</a>
+
 </p>
 
 
